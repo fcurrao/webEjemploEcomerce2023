@@ -1,0 +1,212 @@
+
+.centrado{
+    text-align: center; 
+}
+.btn-group2:hover{
+ background-color:rgba(125, 125, 125, 0.989);
+}
+/* 
+.centrado2 {
+opacity: 0.1;
+}
+
+.centrado img{
+ width: 55%;
+}
+
+.kkk img{
+    width: 82% !important;
+   }
+
+   .cvred{
+    background-color:red !important;
+   }
+.productboton{
+    left: 50%; 
+    z-index: 2;
+    position: initial; 
+    width: 20%;
+    height: 56px; 
+    background-color: black !important;
+    border-radius: 0rem !important;
+    color: white;
+}
+
+.titulo{
+    text-decoration: overline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-color: rgb(132, 131, 131);
+    color: rgb(132, 131, 131);
+}
+
+.titulo2{
+    text-decoration:underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-color: rgb(132, 131, 131);
+    color: rgb(132, 131, 131);
+}
+
+.fondo{ 
+  background-size: cover;
+  width: 90%;
+  height: 500px; 
+}
+
+.margin2{
+    width: 100%;    
+    padding: 8px !important;
+    margin-top: 4% !important; 
+    text-align: center;
+}
+
+
+
+.margin3{ 
+    width: 70%;
+    margin-left: 15%;
+    border: 1px solid black !important;
+    padding: 2px !important;
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+    text-align: center; 
+}
+
+
+.inputt{
+    padding: 5px;
+    margin: 10px;
+}
+
+.margin4{
+    width: 18%;
+    border: 1px solid black !important;
+    padding: 2px !important;
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+    text-align: center;
+}
+
+.medioo{
+width: 100%;
+text-align: center;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-content: flex-end;
+justify-content: center;
+}
+
+.red{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+    font-size: x-large;
+    color: rgb(191 46 46) !important;
+}
+
+.azul{
+    color:  blue !important;
+    font-size: 30px;
+ }
+ 
+ 
+
+
+.colorblanco{
+    background-color: white;
+    color: white;
+}
+.colornegro{
+    background-color: black;
+    color: black;
+}
+
+.padding{
+padding-left: 10%;
+}
+
+.pointer{
+    cursor: pointer;
+    opacity: 10 !important;
+
+}
+
+.float-left{
+    float: left;
+}
+
+.next{
+    padding-right: 180px;
+    opacity: 10 !important;
+    color: white;
+
+}
+
+.prev{
+    padding-left: 180px;
+    opacity: 10 !important;
+        color: white;
+}
+
+
+.letrasGaleria{
+    box-sizing: border-box;
+    text-decoration: solid;
+    font-weight: 900;
+    opacity: 10 !important;
+        color: white;
+}
+
+.bttn{
+    margin-right: 10px;
+}
+
+.zoomosetentaycinco{
+    zoom: 75%
+}
+
+.inputtbig{
+width: 400px;
+height: 200px;
+}
+
+
+.formulario{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-right: 220px;
+}
+
+.mediapag {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 40px;
+}
+
+.imagen {
+width: 50%;
+}
+
+.imagen img{     width: 90% !important;}
+
+.texto{
+    font-size: 16px;
+    padding-left: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding-right: 20px;
+        line-height: 1.8;
+width: 50%;
+}
+
+.subtexto{
+        font-size: 20px;
+        line-height: 1.6;
+} */

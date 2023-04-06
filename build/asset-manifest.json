@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08f8fdc9.css",
+    "main.js": "/static/js/main.ebd7d05d.js",
+    "static/js/787.b1b2ad4d.chunk.js": "/static/js/787.b1b2ad4d.chunk.js",
+    "static/media/titillium-web-all-400-normal.woff": "/static/media/titillium-web-all-400-normal.1b8b406fb7c2e9939922.woff",
+    "static/media/titillium-web-latin-400-normal.woff2": "/static/media/titillium-web-latin-400-normal.55b29b135a9838d9e0f7.woff2",
+    "static/media/titillium-web-latin-ext-400-normal.woff2": "/static/media/titillium-web-latin-ext-400-normal.fc46e868e0ca6c2fa856.woff2",
+    "index.html": "/index.html",
+    "main.08f8fdc9.css.map": "/static/css/main.08f8fdc9.css.map",
+    "main.ebd7d05d.js.map": "/static/js/main.ebd7d05d.js.map",
+    "787.b1b2ad4d.chunk.js.map": "/static/js/787.b1b2ad4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f8fdc9.css",
+    "static/js/main.ebd7d05d.js"
+  ]
+}
