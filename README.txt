@@ -52,7 +52,7 @@ LISTO ,, GUARDADO EN LOCAL, EN GIT Y EN FIREBASE HOSTING
 base de datos en firebase:
 FIREBASE SIRVE PARA ==>> conectar hosting, base de datos y estadisticas
 como conectar, como subir,modificar,borrar o crear (cuenta de google)
-Luego desde el local
+Luego desde el local: en src crear el archivo conexion o DB
 
 8)  echo con react y firebase,
 pages son paginas que se puede acceder desde la navbar (y otros)
@@ -66,14 +66,14 @@ componentes : son cada uno de ellos
 ==>> ORDEN DE LAS COSAS, APP TIENE LAS ROUTES,
 ==>> PASOS PARA MODIFICAR LA WEB
 * pasos para modificar y realizar una nueva web
-0-
+
 0- SIEMPRE, COPIAR UN NUEVO REPOSITORIO CON NOMBRE DE LA NUEVA APP, configurarlo y dejarlo en el LOCAL y configurar firebase conexion.
 
 1- para cambiar los productos ,recios ,detalles, etc se cambian desde firebase y se agrega la propiedad con su nombre en CONTEXT o donde corresponda
 
-2-
+2- limpiar lo correspondiente
 
-3-
+3- hay 2 checkout, a no confundir!
 
 4-
 
